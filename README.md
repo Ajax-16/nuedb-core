@@ -11,10 +11,6 @@ NueDB is a relational database system designed to provide a flexible service thr
 
 ---
 
-![nuedb_banner](./resources/nuedb_logo.jpg)
-
----
-
 ## Contributing
 Contributions to NueDB are welcome! If you have ideas for improvements, new features, or bug fixes, please submit a pull request with your changes.
 
